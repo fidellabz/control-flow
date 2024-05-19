@@ -10,9 +10,6 @@ function App() {
     <div className="App">
       <Assignment/>
 
-
-      
-      {/* You can optionally render the results here if needed */}
     </div>
   );
 }
